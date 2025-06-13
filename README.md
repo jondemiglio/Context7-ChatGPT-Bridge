@@ -12,6 +12,7 @@ A bridge that allows ChatGPT to access up-to-date programming documentation thro
 
 - **Node.js** >= 18.0.0
 - **Python** >= 3.8
+- **ngrok** (for ChatGPT access)
 
 ## Quick Start
 
