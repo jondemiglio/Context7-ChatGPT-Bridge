@@ -170,4 +170,3 @@ Enable debug logging:
 ```bash
 LOG_LEVEL=DEBUG python context7_bridge.py
 ```
-
